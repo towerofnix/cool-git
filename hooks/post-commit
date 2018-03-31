@@ -1,0 +1,6 @@
+#!/bin/bash
+# source /path/to/cool-git/hooks/post-commit
+# on my computer:
+# source ~/cool-git/hooks/post-commit
+
+mpv --no-terminal ~/cool-git/levelup.wav &
